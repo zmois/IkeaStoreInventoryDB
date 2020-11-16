@@ -2,7 +2,7 @@
 
 A database schema of this project is represented on the diagram below and shows the database objects and their relationship with each other.
 
-![DB Schema](DB_Schema.jpg | width=100)
+![DB Schema](DB_Schema.jpg =150x150)
 
 - **Stores:** Data related to the all IKEA stores in USA, such as their Store ID, address, etc.
 - **Products:** Details on all products: SKU, product description, price, etc.
