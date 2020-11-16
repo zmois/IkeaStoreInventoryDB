@@ -2,6 +2,8 @@
 
 A database schema of this project is represented on the diagram below and shows the database objects and their relationship with each other.
 
+(https://github.com/zmois/IkeaStoreInventoryDB/blob/main/DB_Schema.jpg)
+
 - **Stores:** Data related to the all IKEA stores in USA, such as their Store ID, address, etc.
 - **Products:** Details on all products: SKU, product description, price, etc.
 - **Series:** Data related to furniture series name and category.
