@@ -1,0 +1,51 @@
+ProductID,SKU,ProductDescription,ProductColor,SeriesID,Price,AssemblyRequired
+1,304.377.45,Floor lamp with LED bulb,Nickel plated/ opal glass,8,69.99,0
+2,104.376.66,Table lamp with LED bulb,Nickel plated/ opal glass,8,49.99,0
+3,404.402.43,Pendant lamp,Nickel plated/ opal glass,8,49.99,0
+4,204.640.13,Table lamp with LED bulb,Turquoise,9,19.99,0
+5,104.640.61,Floor lamp,Turquoise,9,29.99,0
+6,504.872.49,Table lamp,Dark red,9,14.99,0
+7,802.165.34,Pendant lamp,Dark gray,3,59.99,0
+8,004.148.54,Work lamp with LED bulb,Beige,3,54.99,0
+9,402.974.95,Ceiling track/ 3 spotlights,Dark gray,3,34.99,0
+10,904.148.97,Ceiling track/ 3 spotlights,Beige,3,34.99,0
+11,502.165.40,Wall/clamp spotlight,Dark gray,3,15.99,0
+12,204.162.39,Work lamp w/charging+LED bulb,Dark gray,3,64.99,0
+13,404.162.81,Floor lamp with LED bulb,Dark gray,3,49.99,0
+14,093.115.78,Bed frame high/ Queen,Gray stained,4,199,1
+15,690.094.75,Bed frame high/ Queen,Black-brown,4,199,1
+16,290.094.82,Bed frame high/ Queen,White,4,179,1
+17,604.550.16,6-drawer dresser,Gray stained,4,179,1
+18,703.604.66,6-drawer dresser,Black-brown,4,179,1
+19,303.604.68,6-drawer dresser,White,4,179,1
+20,504.549.08,2-drawer chest,Gray stained,4,49.99,1
+21,001.033.43,2-drawer chest,Black-brown,4,49.99,1
+22,802.145.49,2-drawer chest,White,4,39.99,1
+23,102.036.10,Dressing table,White,4,129,1
+24,903.348.48,4-drawer chest,Dark brown,2,129,1
+25,090.078.13,Bed frame/ Queen ,Dark brown,2,189,1
+26,690.697.99,Bed frame/ Full,Dark brown,2,189,1
+27,602.360.24,Nightstand,Dark brown,2,39.99,1
+28,903.087.88,Wardrobe/mirror glass,Dark brown,2,199,1
+29,691.298.02,Sofa,Blue,5,699,1
+30,492.747.53,Sofa,Dark green,5,699,1
+31,090.338.12,Sofa,Grey-beige,5,,1
+32,990.335.44,Armchair,Grey-beige,5,429,0
+33,891.293.06,Armchair,Blue,5,429,0
+34,690.336.30,Bench,Grey-beige,5,249,1
+35,592.747.38,Bench,Dark green,5,249,1
+36,293.191.92,Sleeper sofa with chaise,Gunnared beige,6,1219,1
+37,193.191.97,Sleeper sofa with chaise,Orrsta black-blue,6,1169,1
+38,793.191.99,Sleeper sofa with chaise,Tallmyra beige,6,1319,1
+39,193.056.90,Sofa,Samsta orange,7,429,1
+40,592.828.56,Sofa,Finnsta turquoise,7,459,1
+41,093.056.95,Sofa,Viarp beige-brown,7,519,1
+42,091.359.38,Ottoman,Finnsta turquoise,7,179,1
+43,693.056.83,Ottoman,Viarp beige-brown,7,179,1
+44,893.056.82,Ottoman,Samsta orange,7,159,1
+45,892.475.74,Bed frame/ Queen,Birch,1,449,1
+46,092.475.73,Bed frame/ King,Birch,1,599,1
+47,704.073.03,5-drawer chest,Birch,1,249,1
+48,504.920.38,5-drawer chest,Black,1,249,1
+49,704.073.60,Nightstand,Birch,1,,1
+50,304.073.57,Nightstand,Black,1,69.99,1

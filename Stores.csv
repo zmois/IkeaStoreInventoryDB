@@ -1,0 +1,51 @@
+ID,StoreID,City,State,Address,ZipCode
+1,209,Tempe,AZ,2110 West IKEA Way,85284
+2,399,Burbank,CA,600 IKEA Way,91502
+3,162,Carson,CA,20700 S Avalon Blvd,90746
+4,167,Costa Mesa,CA,145 S Coast Dr,92626
+5,413,Covina ,CA,848 S Barranca Ave,91723
+6,347,East Palo Alto,CA,1700 E Bayshore Rd,94303
+7,165,Emeryville,CA,4400 Shellmound St,94608
+8,166,San Diego,CA,2149 Fenton Pkwy,92108
+9,157,West Sacramento,CA,700 IKEA Ct,95605
+10,64,Centennial,CO,9800 E IKEA Way,80112
+11,213,New Haven,CT,450 Sargent Dr,6511
+12,537,Jacksonville,FL,7801 Gate Pkwy,32256
+13,327,Miami,FL,1801 NW 117th Ave,33172
+14,145,Orlando,FL,4092 Eastgate Dr,32839
+15,207,Sunrise,FL,151 NW 136th Ave,33325
+16,42,Tampa,FL,1103 N 22nd St,33605
+17,257,Atlanta,GA,441 16th St NW,30363
+18,170,Bolingbrook,IL,750 E Boughton Rd,60440
+19,210,Schaumburg,IL,1800 McConnor Pkwy,60173
+20,536,Fishers,IL,11400 IKEA Way,32322
+21,374,Merriam,KS,6000 IKEA Way,66202
+22,158,Stoughton,MA,1 IKEA Way,2072
+23,152,Baltimore,MD,8352 Honeygo Blvd,21236
+24,411,College Park,MD,10100 Baltimore Ave,20740
+25,26,Canton,MI,41640 Ford Rd,48187
+26,212,Bloomington,MN,8000 IKEA Way,55425
+27,410,St. Louis,MO,1IKEA Way,63112
+28,67,Charlotte,NC,8300 IKEA Blvd,28262
+29,154,Elizabeth,NJ,1000 IKEA Dr,7201
+30,409,Paramus,NJ,100 IKEA Dr,7652
+31,462,Las Vegas,NV,6500 IKEA Way,89148
+32,921,Brooklyn,NY,1 Beard St,11231
+33,156,Long Island,NY,1100 Broadway Mall,11801
+34,511,Columbus,OH,1900 IKEA Way,43240
+35,175,West Chester,OH,9500 IKEA Way,45069
+36,28,Portland,OR,10280 NE Cascade Pkwy,97220
+37,211,Conshohocken,PA,400 Alan Wood Rd,19428
+38,153,Pittsburg,PA,2001 Park Manor Blvd,15205
+39,215,South Philadelphia,PA,2206 S Christopher Columbus Blvd,19148
+40,508,Memphis,TN,7900 IKEA Way,38016
+41,183,Frisco,TX,7171 IKEA Dr,75034
+42,535,Grand Prairie,TX,1000 IKEA Way,75052
+43,379,Houston,TX,7810 Katy Fwy,77024
+44,570,Live Oak,TX,1000 IKEA RBFCU Pkwy,78233
+45,27,Round Rock ,TX,1 IKEA Way,78665
+46,103,Draper,UT,67 W IKEA Way,84020
+47,569,Norfolk,VA,1500 IKEA Way ,23502
+48,168,Woodbridge,VA,2901 Potomac Mills Cir,22192
+49,488,Renton,WA,601 SW  41st St,98057
+50,560,Oak Creek ,WI,7500 S IKEA Way,53154
