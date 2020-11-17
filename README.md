@@ -26,5 +26,4 @@ The SQL script data is imported from a .csv files into a DB tables by using a Bu
 >     ROWTERMINATOR = '\n' 	--Use to shift the control to next row<br>
 <br>
 
-Other option for importing a .csv files into a SQL Server database is to use Import Flat File wizard. The detailed step-by-step instructions is here. 
-<a href="https://docs.microsoft.com/en-us/sql/relational-databases/import-export/import-flat-file-wizard?view=sql-server-ver15 title="Instructions">here</a>
+Other option for importing a .csv files into a SQL Server database is to use Import Flat File wizard. The detailed step-by-step instructions is <a href="https://docs.microsoft.com/en-us/sql/relational-databases/import-export/import-flat-file-wizard?view=sql-server-ver15" title="Instructions"> here </a>
