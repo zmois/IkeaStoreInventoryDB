@@ -1,6 +1,6 @@
 # ReadMe
 
-**Code Louisville SQL Project - Ikea Store Inventory Database**
+### Code Louisville SQL Project - Ikea Store Inventory Database**
 
 A database schema of this project is represented on the diagram below and shows the database objects and their relationship with each other.
 
@@ -14,7 +14,7 @@ A database schema of this project is represented on the diagram below and shows 
 
 The Stores data is obtained from the <ikea.com> website and contains the actual address of all Ikea stores in USA. The Products and Series names are real and have been obtained from official website. The inventory data was created by online Random number generator.
 
-## How to run 
+### How to run 
 
 The SQL script data is imported from a .csv files into a DB tables by using a Bulk upload. Prior running the script, all .cvs files must be downloaded from this repository and saved in the known location since it will be used in Bulk Insert statement (see the example below)
 
@@ -27,3 +27,6 @@ The SQL script data is imported from a .csv files into a DB tables by using a Bu
 <br>
 
 Other option for importing a .csv files into a SQL Server database is to use Import Flat File wizard. The detailed step-by-step instructions is <a href="https://docs.microsoft.com/en-us/sql/relational-databases/import-export/import-flat-file-wizard?view=sql-server-ver15" title="Instructions"> here </a>
+
+### Requirements:
+This SQL script is organized to fulfills the <a href = "https://docs.google.com/document/d/1Exa4sdWtpiigigwCf2kdMdr-Jav3xs5LlG-44PjP94A/edit " project requirements </a>
