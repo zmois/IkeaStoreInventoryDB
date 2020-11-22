@@ -78,8 +78,7 @@ BULK INSERT IkeaStoreInventory.[dbo].Inventory
     WITH
         (   FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '\n',
-            FORMAT = 'CSV'
+            ROWTERMINATOR = '\n'
         );
 
 BULK INSERT IkeaStoreInventory.[dbo].Series
@@ -87,8 +86,7 @@ BULK INSERT IkeaStoreInventory.[dbo].Series
     WITH
         (   FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '\n',
-            FORMAT = 'CSV'
+            ROWTERMINATOR = '\n'
         );
 
 BULK INSERT IkeaStoreInventory.[dbo].Stores
@@ -96,8 +94,7 @@ BULK INSERT IkeaStoreInventory.[dbo].Stores
     WITH
         (   FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '\n',
-            FORMAT = 'CSV'
+            ROWTERMINATOR = '\n'
         );
 
 BULK INSERT IkeaStoreInventory.[dbo].Products
@@ -105,8 +102,7 @@ BULK INSERT IkeaStoreInventory.[dbo].Products
     WITH
         (   FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '\n',
-            FORMAT = 'CSV'
+            ROWTERMINATOR = '\n'
         );
 
 BULK INSERT IkeaStoreInventory.[dbo].StoresProducts
@@ -114,8 +110,7 @@ BULK INSERT IkeaStoreInventory.[dbo].StoresProducts
     WITH
         (   FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '\n',
-            FORMAT = 'CSV'
+            ROWTERMINATOR = '\n'
         );
 GO
 
